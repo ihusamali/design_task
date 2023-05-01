@@ -14,7 +14,7 @@ class Home extends StatefulWidget {
 }
 
 class _HomeState extends State<Home> {
-  bool darkmode = false;
+  bool darkmode = true;
 
   @override
   Widget build(BuildContext context) {
